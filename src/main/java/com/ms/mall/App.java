@@ -13,5 +13,6 @@ public class App
         System.out.println( "分支添加" );
         System.out.println( "主干添加" );
         System.out.println( "分支新增" );
+        System.out.println( "ceshiSSH" );
     }
 }
