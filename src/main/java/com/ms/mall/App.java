@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "创建分支" );
+        System.out.println( "主干添加" );
     }
 }
